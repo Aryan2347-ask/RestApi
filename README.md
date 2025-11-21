@@ -17,3 +17,15 @@ Python
 Flask
 
 Postman / Curl (for testing)
+
+📂 Running the Project
+1️⃣ Install dependencies:
+pip install flask
+
+2️⃣ Run the API:
+python RestApi.py
+
+
+If successful, you will see:
+
+Running on http://127.0.0.1:5000
